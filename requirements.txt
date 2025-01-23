@@ -4,4 +4,6 @@ numpy>=1.21.0
 scikit-learn>=0.24.0
 pulser>=0.3.0
 pulser-simulation>=0.3.0
-qutip>=4.6.0 
+qutip>=4.6.0
+gunicorn>=20.1.0
+waitress>=2.0.0 
